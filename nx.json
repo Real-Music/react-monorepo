@@ -90,9 +90,9 @@
     }
   },
   "release": {
-    // "version": {
-    //   "conventionalCommits": true
-    // },
+    "version": {
+      "conventionalCommits": true
+    },
     "projects": [
       "packages/*"
     ]

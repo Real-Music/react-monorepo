@@ -1,7 +1,7 @@
 // Uncomment this line to use CSS modules
 // import styles from './app.module.css';
 import NxWelcome from './nx-welcome';
-import { Hero, Button } from '@koma-analytics/ui';
+import { Hero } from '@koma-analytics/ui';
 import { Route, Routes, Link } from 'react-router-dom';
 
 export function App() {
@@ -13,7 +13,6 @@ export function App() {
         subtitle="Build something amazing today"
       />
       <NxWelcome title="@react-demo/react-demo" />
-      <Button label="Submit" />
 
       {/* START: routes */}
       {/* These routes and navigation have been generated for you */}
