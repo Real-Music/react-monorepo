@@ -1,6 +1,6 @@
 {
   "name": "@koma-analytics/ui",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "private": false,
   "main": "./src/index.ts",
   "types": "./src/index.ts",
