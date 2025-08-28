@@ -1,6 +1,18 @@
 {
   "name": "@koma-analytics/ui",
   "version": "2.1.0",
+  "description": "Koma Analytics React SDK for event tracking and analytics",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "sdk",
+    "react",
+    "analytics",
+    "typescript",
+    "event-tracking",
+    "frontend-analytics"
+  ],
   "private": false,
   "main": "./src/index.ts",
   "types": "./src/index.ts",
@@ -11,5 +23,15 @@
       "default": "./src/index.ts"
     },
     "./package.json": "./package.json"
+  },
+  "author": "Fedjio Raymond",
+  "license": "MIT",
+  "homepage": "https://github.com/Real-Music/react-monorepo#readme",
+  "bugs": {
+    "url": "https://github.com/Real-Music/react-monorepo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Real-Music/react-monorepo.git"
   }
 }
