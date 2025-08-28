@@ -1,3 +1,13 @@
+## 2.2.0 (2025-08-28)
+
+### 🚀 Features
+
+- remove button component export from index ([77bcf28](https://github.com/Real-Music/react-monorepo/commit/77bcf28))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.1.0 (2025-08-28)
 
 ### 🚀 Features
