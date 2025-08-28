@@ -1,12 +1,17 @@
 // Uncomment this line to use CSS modules
 // import styles from './app.module.css';
 import NxWelcome from './nx-welcome';
-
+import { Hero } from '@react-demo/ui';
 import { Route, Routes, Link } from 'react-router-dom';
 
 export function App() {
   return (
     <div>
+      <Hero
+        cta="Get Started"
+        title="Welcmoe to our Demo"
+        subtitle="Build something amazing today"
+      />
       <NxWelcome title="@react-demo/react-demo" />
 
       {/* START: routes */}
