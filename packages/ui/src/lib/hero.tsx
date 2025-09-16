@@ -24,7 +24,7 @@ export function Hero(props: Props) {
           color: 'white',
           fontSize: '18px',
           cursor: 'pointer',
-          borderRadius: '50%',
+          borderRadius: '4px',
           padding: '12px 24px',
           backgroundColor: '#05035bff',
         }}
