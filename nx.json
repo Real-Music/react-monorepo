@@ -93,6 +93,11 @@
     "version": {
       "conventionalCommits": true
     },
+    "changelog": {
+      "workspaceChangelog": {
+        "createRelease": "github"
+      }
+    },
     "projects": [
       "packages/*"
     ]
