@@ -1,3 +1,13 @@
+## 2.3.0 (2025-09-16)
+
+### 🚀 Features
+
+- add changelog configuration for GitHub releases and update Hero component background colors ([78f50e0](https://github.com/Real-Music/react-monorepo/commit/78f50e0))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.2.1 (2025-09-16)
 
 ### 🩹 Fixes
