@@ -12,7 +12,7 @@ export function Hero(props: Props) {
         color: 'white',
         textAlign: 'center',
         padding: '100px 20px',
-        backgroundColor: '#050531ff',
+        backgroundColor: '#0202b9ff',
       }}
     >
       <h1 style={{ fontSize: '48px', marginBottom: '16px' }}>{props.title}</h1>
