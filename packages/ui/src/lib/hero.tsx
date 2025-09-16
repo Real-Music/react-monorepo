@@ -26,7 +26,7 @@ export function Hero(props: Props) {
           cursor: 'pointer',
           borderRadius: '4px',
           padding: '12px 24px',
-          backgroundColor: '#6c06d1ff',
+          backgroundColor: '#8d066eff',
         }}
       >
         {props.cta}
