@@ -1,6 +1,6 @@
 {
   "name": "@koma-analytics/ui",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Koma Analytics React SDK for event tracking and analytics",
   "publishConfig": {
     "access": "public"
