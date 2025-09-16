@@ -1,3 +1,14 @@
+## 2.3.2 (2025-09-16)
+
+### 🩹 Fixes
+
+- update button background color in Hero component for better consistency ([9b4551d](https://github.com/Real-Music/react-monorepo/commit/9b4551d))
+- revert button border radius in Hero component to original value for consistency ([a615925](https://github.com/Real-Music/react-monorepo/commit/a615925))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.3.1 (2025-09-16)
 
 ### 🩹 Fixes
