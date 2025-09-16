@@ -1,3 +1,13 @@
+## 2.2.1 (2025-09-16)
+
+### 🩹 Fixes
+
+- update button background color in Hero component ([b948ac0](https://github.com/Real-Music/react-monorepo/commit/b948ac0))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.2.0 (2025-08-28)
 
 ### 🚀 Features
