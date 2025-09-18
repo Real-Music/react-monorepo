@@ -1,3 +1,13 @@
+## 2.5.0 (2025-09-18)
+
+### 🚀 Features
+
+- Updated Hero component and set background color to dark blue. ([00c55cb](https://github.com/Real-Music/react-monorepo/commit/00c55cb))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.4.1 (2025-09-18)
 
 ### 🩹 Fixes
