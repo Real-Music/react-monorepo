@@ -100,11 +100,6 @@
     },
     "projects": [
       "packages/*"
-    ],
-    "publish": {
-      "executor": "@nx/js:npm",
-      "options": {},
-      "dependsOn": ["build"]
-    }
+    ]
   }
 }
