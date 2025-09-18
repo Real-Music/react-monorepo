@@ -1,3 +1,13 @@
+## 2.5.3 (2025-09-18)
+
+### 🩹 Fixes
+
+- updated package json ([bf4afd1](https://github.com/Real-Music/react-monorepo/commit/bf4afd1))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.5.2 (2025-09-18)
 
 ### 🩹 Fixes
