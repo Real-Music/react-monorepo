@@ -1,3 +1,13 @@
+## 2.4.1 (2025-09-18)
+
+### 🩹 Fixes
+
+- updated package .json ([03d9fd9](https://github.com/Real-Music/react-monorepo/commit/03d9fd9))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.4.0 (2025-09-18)
 
 ### 🚀 Features
