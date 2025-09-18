@@ -1,3 +1,13 @@
+## 2.5.2 (2025-09-18)
+
+### 🩹 Fixes
+
+- updated publish.yml to build packages before publish ([2e8d4b1](https://github.com/Real-Music/react-monorepo/commit/2e8d4b1))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.5.1 (2025-09-18)
 
 ### 🩹 Fixes
