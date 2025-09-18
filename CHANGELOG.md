@@ -1,3 +1,13 @@
+## 2.4.0 (2025-09-18)
+
+### 🚀 Features
+
+- **ui, react-sdk:** add Hero component and update devDependencies ([b7af118](https://github.com/Real-Music/react-monorepo/commit/b7af118))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.3.2 (2025-09-16)
 
 ### 🩹 Fixes
