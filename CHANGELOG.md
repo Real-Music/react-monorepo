@@ -1,3 +1,13 @@
+## 2.5.1 (2025-09-18)
+
+### 🩹 Fixes
+
+- updated ui lib to publish dist folder ([9358945](https://github.com/Real-Music/react-monorepo/commit/9358945))
+
+### ❤️ Thank You
+
+- Fedjio Raymond
+
 ## 2.5.0 (2025-09-18)
 
 ### 🚀 Features
